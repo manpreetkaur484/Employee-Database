@@ -1,0 +1,13 @@
+C:\NETVisualCodeSem4\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\NETVisualCodeSem4\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\NETVisualCodeSem4\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\NETVisualCodeSem4\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\NETVisualCodeSem4\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\NETVisualCodeSem4\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\NETVisualCodeSem4\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+C:\NETVisualCodeSem4\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\NETVisualCodeSem4\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\NETVisualCodeSem4\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\NETVisualCodeSem4\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\NETVisualCodeSem4\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\NETVisualCodeSem4\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
